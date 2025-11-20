@@ -22,7 +22,7 @@ window.fileStorage = {};
 const SCRIPT_URL_INTERNA =
   'https://script.google.com/macros/s/AKfycbztFYnJDpSu796wPyoInzn1vpIRCNcdlkhUCaNAPzZo7emBBV2E7sP92zZlgA_THH6S/exec'; // EXEMPLO: SUBSTITUA!
 const SCRIPT_URL_EXTERNA =
-  'https://script.google.com/macros/s/AKfycbwIgi_6PoRAWrIwTyB-CSrVJhB5WufKL1SV51j3bIlwRIMisJ_gz7lzdIYTSHt80lvcNA/exec'; // EXEMPLO: SUBSTITUA!
+  'https://script.google.com/macros/s/AKfycby3cR7Abxq5W-CnfB6GPlHQydkmtqrHTeScmq27B19fGybTs-kOAjwDDjc0yAUFqrSjWg/exec'; // EXEMPLO: SUBSTITUA!
 
 
 /**
