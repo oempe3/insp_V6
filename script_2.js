@@ -18,7 +18,7 @@ let signatureCanvas, signatureCtx, isDrawing = false;
 let signatureBlob = null; 
 
 // URL do Google Apps Script (ATUALIZADA)
-const GAS_URL = 'https://script.google.com/macros/s/AKfycbz_zq_537cihCdhWzPl3eVg9gmF6y5Lef0wqwf8xCEwpEBJ0KzKN_oyyXXkrZXSpZ8ZPQ/exec'; 
+const GAS_URL = 'https://script.google.com/macros/s/AKfycbwIgi_6PoRAWrIwTyB-CSrVJhB5WufKL1SV51j3bIlwRIMisJ_gz7lzdIYTSHt80lvcNA/exec'; 
 
 // =========================================================================
 // 1. RENDERIZAÇÃO E INICIALIZAÇÃO
