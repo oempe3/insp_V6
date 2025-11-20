@@ -20,9 +20,9 @@ window.fileStorage = {};
  * ⚠️ ATUALIZE ESTAS DUAS URLs após o novo deploy do seu Apps Script.
  */
 const SCRIPT_URL_INTERNA =
-  'https://script.google.com/macros/s/AKfycbztFYnJDpSu796wPyoInzn1vpIRCNcdlkhUCaNAPzZo7emBBV2E7sP92zZlgA_THH6S/exec'; // EXEMPLO: SUBSTITUA!
+  'https://script.google.com/macros/s/AKfycbyFZQH5R2Lq0fy29whuTDi9SWeI-aZEMXEjkDbSQSB1ZO9Pl3Ngg7YbHdEAVJ0kXrYI/exec'; // EXEMPLO: SUBSTITUA!
 const SCRIPT_URL_EXTERNA =
-  'https://script.google.com/macros/s/AKfycby3cR7Abxq5W-CnfB6GPlHQydkmtqrHTeScmq27B19fGybTs-kOAjwDDjc0yAUFqrSjWg/exec'; // EXEMPLO: SUBSTITUA!
+  'https://script.google.com/macros/s/AKfycbylu44qHGbavKKc2Mm7lRLiusc4h_uOSmb1NQdngomQlf0eJm8-oMXxsCvsiSt04nRXzA/exec'; // EXEMPLO: SUBSTITUA!
 
 
 /**
